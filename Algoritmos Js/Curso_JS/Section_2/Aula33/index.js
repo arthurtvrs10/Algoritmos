@@ -10,7 +10,7 @@ console.log(nome);
 /*
 Referência (mutável) - array, object, function - Valores passados por referência
 */
-const pessoa = {
+const pessoa = { // objeto
     nome: 'Luiz',
     sobrenome: 'Otávio'
 };
